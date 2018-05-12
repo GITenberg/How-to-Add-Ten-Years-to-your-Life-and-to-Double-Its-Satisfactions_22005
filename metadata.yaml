@@ -1,0 +1,36 @@
+_repo: How-to-Add-Ten-Years-to-your-Life-and-to-Double-Its-Satisfactions_22005
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22005-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Curry, S. S. (Samuel Silas)
+    alias: Curry, Samuel Silas
+    birthdate: 1847
+    deathdate: 1921
+    gutenberg_agent_id: '25024'
+    url: http://www.gutenberg.org/2009/agents/25024
+description: Expression is one of the necessary elements of human development. We
+  control emotions and control their expression. We welcome noble thoughts or noble
+  feelings, and that which we welcome we become. This book shows the smile, laughter,
+  the taking of breath and the simple stretch as most important exercises which are
+  to be regularly taken. It also implies a deeper study into human co-ordinations;
+  it tries to show a universal necessity of rhythm and is an endeavor to establish
+  the higher principles of training in a way that makes them applicable to the most
+  simple of human actions ...
+gutenberg_issued: '2007-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22005'
+  lccn: '15017826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hygiene'
+- !lcc 'RA'
+- !lcsh 'Physical education and training'
+title: How to Add Ten Years to your Life and to Double Its Satisfactions
+url: http://www.gutenberg.org/ebooks/22005
